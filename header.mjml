@@ -1,0 +1,7 @@
+<mc-section background-color="#000" padding="40px">
+  <mj-column>
+    <mc-text css-class="header-text" mc:edit="title" color="#fff" align="center" font-size="57px" font-weight="bold" text-transform="capitalize" padding="20px">
+      the daily grind
+    </mc-text>
+  </mj-column>
+</mc-section>

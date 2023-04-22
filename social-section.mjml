@@ -1,0 +1,13 @@
+<mc-section css-class="divider-container" background-color="#fff" padding="0px 40px">
+  <mj-column>
+    <mc-text mc:edit="social-icon" padding="0px" padding-top="30px" font-weight="bold" text-transform="uppercase">
+      find us
+    </mc-text>
+    <mj-social mode="horizontal" icon-size="30px" padding-bottom="30px">
+      <mj-social-element name="twitter-noshare" href="#" padding="10px"></mj-social-element>
+      <mj-social-element name="facebook-noshare" href="#" padding="10px"></mj-social-element>
+      <mj-social-element name="instagram-noshare" href="#" padding="10px"></mj-social-element>
+      <mj-social-element name="pinterest-noshare" href="#" padding="10px"></mj-social-element>
+    </mj-social>
+  </mj-column>
+</mc-section>

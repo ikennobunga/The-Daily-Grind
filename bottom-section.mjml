@@ -1,0 +1,14 @@
+<mc-section css-class="divider-container" mc:repeatable="content-section" mc:variant="middle section" mc:hideable padding="20px 40px 60px" background-color="#fff">
+  <mj-column>
+    <mc-image css-class="image-content-container" mc:edit="content-image" padding="0px" padding-top="20px" src="img/mug.png" alt="mug" />
+  </mj-column>
+
+  <mj-column>
+    <mc-text mc:edit="content" align="left" padding-top="20px" line-height="20px">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    </mc-text>
+    <mc-text mc:edit="content-link" font-weight="bold" padding-top="20px" text-transform="uppercase" align="left" line-height="20px">
+      read more
+    </mc-text>
+  </mj-column>
+</mj-section>

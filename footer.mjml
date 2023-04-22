@@ -1,0 +1,17 @@
+<mc-section background-color="#fff" padding="0px 40px" padding-bottom="60px">
+  <mj-column>
+    <mc-text mc:edit="subscribe" font-weight="bold" text-transform="uppercase" padding-top="30px" line-height="24px">
+      <a href="*|LIST:SUBSCRIBE|*">subscribe</a>
+      <br/>
+      <a href="*|UNSUBSCRIBE|*">unsubscribe</a>
+      <br/>
+      <a href="*|UPDATE_PROFILE|*">update profile</a>
+    </mc-text>
+  </mj-column>
+  
+  <mj-column>
+      <mc-text mc:edit="copyright" font-size="10px" line-height="20px" padding-top="28px" align="right">
+      copyright &copy; *|USER:COMPANY|* *|Y|* <br/> all rights reserved
+    </mc-text>
+  </mj-column>
+</mc-section>
