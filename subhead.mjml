@@ -11,6 +11,6 @@
     </mc-text>
   </mj-column>
   <mj-column>
-    <mc-image mc:edit="sub-image" css-class="image-subhead-container" padding-bottom="20px" src="img/mug.png" alt="icon" />
+    <mc-image mc:edit="sub-image" css-class="image-subhead-container" padding-bottom="20px" src="https://i.ibb.co/WH3RGk6/mug.png" alt="icon" />
   </mj-column>
 </mc-section>

@@ -1,6 +1,6 @@
 <mc-section mc:repeatable="content-section" mc:variant="middle section" mc:hideable padding="20px 40px" background-color="#fff">
   <mj-column>
-    <mc-image css-class="image-content-container" mc:edit="content-image" padding="0px" padding-top="20px" src="img/mug.png" alt="mug" />
+    <mc-image css-class="image-content-container" mc:edit="content-image" padding="0px" padding-top="20px" src="https://i.ibb.co/WH3RGk6/mug.png" alt="mug" />
   </mj-column>
 
   <mj-column>
