@@ -1,4 +1,4 @@
-<mc-section css-class="divider-container" padding="40px" background-color="#fff">
+<mc-section css-class="divider-container sub-header" padding="40px" background-color="#fff">
   <mj-column>
     <mc-text mc:edit="date" color="#000" text-transform="uppercase" text-transform="uppercase">
       *|DATE:M d,Y|*
@@ -11,6 +11,6 @@
     </mc-text>
   </mj-column>
   <mj-column>
-    <mc-image mc:edit="sub-image" css-class="image-subhead-container" padding-bottom="20px" align="right" src="img/mug.png" alt="icon" />
+    <mc-image mc:edit="sub-image" css-class="image-subhead-container" padding-bottom="20px" src="img/mug.png" alt="icon" />
   </mj-column>
 </mc-section>
