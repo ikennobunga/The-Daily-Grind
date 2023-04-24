@@ -1,4 +1,4 @@
-<mc-section css-class="divider-container sub-header" padding="40px" background-color="#fff">
+<mc-section css-class="divider-container" padding="40px" background-color="#fff">
   <mj-column>
     <mc-text mc:edit="date" color="#000" text-transform="uppercase" text-transform="uppercase">
       *|DATE:M d,Y|*
